@@ -110,9 +110,12 @@ class ListingDrafts extends Table {
 
 > ✅ **Checkpoint 1.1** บันทึกคำตอบจากคำถามด้านบนทั้ง 4 ข้อ พร้อมแนบภาพหน้าจอผลลัพธ์จาก Gemini
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+<img width="729" height="383" alt="image" src="https://github.com/user-attachments/assets/ac70b776-3e98-4aa2-bf13-cd22e3af8a53" />
+
+<img width="746" height="395" alt="image" src="https://github.com/user-attachments/assets/89912704-bad9-4f46-a8e8-63f0dd215bcd" />
+
+<img width="742" height="410" alt="image" src="https://github.com/user-attachments/assets/df7765ae-81d3-4d19-8442-594f33569c3a" />
+
 
 ---
 
